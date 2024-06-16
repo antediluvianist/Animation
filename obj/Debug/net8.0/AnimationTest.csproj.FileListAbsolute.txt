@@ -1,0 +1,42 @@
+F:\Document\DEV\C#\AnimationTest\bin\Debug\net8.0\AnimationTest.exe
+F:\Document\DEV\C#\AnimationTest\bin\Debug\net8.0\AnimationTest.deps.json
+F:\Document\DEV\C#\AnimationTest\bin\Debug\net8.0\AnimationTest.runtimeconfig.json
+F:\Document\DEV\C#\AnimationTest\bin\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\AnimationTest\bin\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.AssemblyInfo.cs
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\refint\AnimationTest.dll
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\AnimationTest.genruntimeconfig.cache
+F:\Document\DEV\C#\AnimationTest\obj\Debug\net8.0\ref\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest2\bin\Debug\net8.0\AnimationTest.exe
+F:\Document\DEV\C#\Animation\AnimationTest2\bin\Debug\net8.0\AnimationTest.deps.json
+F:\Document\DEV\C#\Animation\AnimationTest2\bin\Debug\net8.0\AnimationTest.runtimeconfig.json
+F:\Document\DEV\C#\Animation\AnimationTest2\bin\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest2\bin\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.AssemblyInfo.cs
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\refint\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\AnimationTest.genruntimeconfig.cache
+F:\Document\DEV\C#\Animation\AnimationTest2\obj\Debug\net8.0\ref\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\bin\Debug\net8.0\AnimationTest.exe
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\bin\Debug\net8.0\AnimationTest.deps.json
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\bin\Debug\net8.0\AnimationTest.runtimeconfig.json
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\bin\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\bin\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.AssemblyInfo.cs
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\refint\AnimationTest.dll
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.pdb
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\AnimationTest.genruntimeconfig.cache
+F:\Document\DEV\C#\Animation\AnimationTest - sans clignotement\obj\Debug\net8.0\ref\AnimationTest.dll
